@@ -20,6 +20,9 @@ This folder contains the **complete implementation and dataset** for the project
   - **Taxi data**: compressed as `taxi_data.rar` due to large file size.
   - **Shapefiles** for Chicago community areas (e.g. `.shp`, `.dbf`, `.shx`, etc.) for geospatial operations.
 
+### Presentation
+- Presentation of our project in Powerpoint
+
 ---
 
 ## Notes
