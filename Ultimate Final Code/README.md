@@ -35,6 +35,7 @@ This folder contains the **complete implementation and dataset** for the project
 - Make sure all shapefiles stay in the same folder to ensure they load correctly in GeoPandas.
 - Run the notebook from this folder to ensure relative paths work as expected.
 - Make sure all the Chicago files and the taxi data file and the shapefiles are in the same directory as the code file.
+
 ---
 
 ## Usage
