@@ -23,6 +23,10 @@ This folder contains the **complete implementation and dataset** for the project
 ### Presentation
 - Presentation of our project in Powerpoint
 
+### Paper
+- Added a pdf version of our final paper.
+
+
 ---
 
 ## Notes
